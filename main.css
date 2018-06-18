@@ -1,1 +1,30 @@
+/*Q1*/
+h1{
+    color: #871b7c;
+    }
 
+/*Q2*/
+    .colleges{
+        background-color:#c83;
+        }
+/*Q3*/
+.topics{
+    list-style:none;
+    }
+/*Q4*/
+figure img{
+	
+    
+    max-width: 300px;
+     }
+/*Q5*//*Q6*/
+figure{
+    display: inline-block;
+    margin: 20px 20px 20px 20px;
+}
+
+/*Q7*/
+<figure>
+<img src="https://cdn.pixabay.com/photo/2016/10/15/12/30/calamaro-1742361_960_720.jpg" alt="Squid">
+<figcaption>Squid</figcaption>
+</figure>
